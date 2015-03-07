@@ -9,13 +9,13 @@ relative_permalinks: true
 # Setup
 title:            McCollem
 tagline:          'Run|Code|Sleep'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Layout made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Run|Code|Sleep'
 url:              
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           
+  url:            
 
 paginate:         5
 
