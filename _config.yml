@@ -4,14 +4,12 @@ highlighter:         pygments
 
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               McCollem
 tagline:             'Code|Run'
-description:         'A blog about coding, running, and everything in between!'
+description:         'A blog about coding, running, and everything in between.'
 url:                 
 baseurl:             /
 paginate:            5
