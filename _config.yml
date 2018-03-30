@@ -14,9 +14,9 @@ tagline:             'Code|Run'
 description:         'A blog about coding, running, and everything in between.'
 url:                 
 baseurl:             /
-paginate:            5
+#paginate:            5
 gems: [jekyll-paginate]
-#paginate: 5
+paginate: 5
 paginate_path: "page:num"
 
 # About/contact
